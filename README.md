@@ -7,6 +7,6 @@ Program was submitted as a final project for Mercer County Community College COS
 
 # Usage
 Example of running program:
-![image](https://github.com/AlexMC1997/Synth/assets/98240120/428d7eea-f50c-4fe6-88bb-41230d9d5998)
+![image](synth.png)
 
 ADSR envelope and harmonics can be manipulated in real time, and tones can be played either by clicking on the GUI keys, or by using the prescribed keys. Numerical fields support scrolling to change value.
